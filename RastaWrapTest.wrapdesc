@@ -1,0 +1,4 @@
+﻿name: RastaWrapTest
+depends: openwrap anchored content
+depends: openrasta-core
+depends: openrasta-aspnet
