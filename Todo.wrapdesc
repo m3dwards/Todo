@@ -1,4 +1,0 @@
-﻿name: Todo
-depends: openwrap anchored content
-depends: openrasta-core
-depends: openrasta-aspnet
